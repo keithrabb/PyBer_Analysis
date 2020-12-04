@@ -8,5 +8,6 @@ The president of PyBer, a company valued at $2.3 Bil, asked for a ride-sharing d
 
 
 ## Summary:
+
 Based on the analysis there are three recomendations to the president of PyBer.
 - 
