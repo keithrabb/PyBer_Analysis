@@ -6,7 +6,7 @@ The president of PyBer, a company valued at $2.3 Bil, asked for a ride-sharing d
 ![Rural_Sum](Resources/Rural_Sum.PNG)
 
 
-![PyBer_fare_summary] (Resources/Pyber_fare_summary.PNG)
+![PyBer_fare_summary](Resources/Pyber_fare_summary.PNG)
 
 
 ## Summary:
