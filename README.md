@@ -15,6 +15,7 @@ The president of PyBer, a company valued at $2.3 Bil, asked for a ride-sharing d
 ## Summary:
 
 Based on the analysis there are three recomendations to the president of PyBer (four based on what I consider to be important):
+
 1 - The sample size is too short a time period.  Reconsider doing the study again after having a full year of analysis.  The next recommendation will explain why.
 
 2 - Advertise, Advertise, Advertise.  Having a full year of sample size will tell the CEO when the best times to advertize will be.  Is there a tourist season?  It may not be relected in the sample.
